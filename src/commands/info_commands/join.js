@@ -76,7 +76,7 @@ module.exports = function run (guild, config)
          },
          {
             "name": ":tools: Support ",
-            "value": "If you need some support why not drop by our [Support Server](https://discord.gg/hXaedzCQ8d) and we will be more than willing to lend a hand."
+            "value": "If you need some support please contact admins."
          },
          {
             "name": ":lock: Permissions",
