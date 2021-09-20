@@ -120,7 +120,7 @@ module.exports.warn = async function warn (data)
       `We don't want to do this, if we have made a mistake and your server is just really busy then \n` +
       `please let us know ASAP as we don't want to deprive you of using RITA.\n\n` +
       `Thank You - RITA Dev Team\n\n` +
-      `Support Server: https://discord.gg/hXaedzCQ8d\n\n`;
+      //`Support Server: https://discord.gg/hXaedzCQ8d\n\n`;
 
       // ----------------------
       // Send message to owner
