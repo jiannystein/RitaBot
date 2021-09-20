@@ -93,7 +93,7 @@ exports.listen = function listen (client)
 
          client.user.setPresence({
             "activity": {
-               "name": "神之领域翻译 | !tr help",
+               "name": "神之领域|翻译",
                "type": "PLAYING"
             },
             "status": "online"
