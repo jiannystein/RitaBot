@@ -132,7 +132,6 @@ module.exports.newBot = function newBot (data)
          },
          {
             "name": ":bell: Need Support",
-            // "value": `Need some extra Support, a little bit stuck. Join our [Support Server](https://discord.gg/hXaedzCQ8d)\n**‏‏‎ ‎‎‎‎‎‎**`
             "value": `Need some extra Support, a little bit stuck. Ask Admins\n**‏‏‎ ‎‎‎‎‎‎**`
          }
       ],

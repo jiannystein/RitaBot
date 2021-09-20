@@ -11,7 +11,8 @@ const time = {
    "long": 60000,
    "short": 5000
 };
-//const helpFooter = `**For more help join our official [support server](<https://discord.gg/hXaedzCQ8d>)**\n\n`;
+// const helpFooter = `**For more help join our official [support server](<https://discord.gg/hXaedzCQ8d>)**\n\n`;
+const helpFooter = `**For more help please contact admins**\n\n`;
 
 // -------------
 // Help Section
